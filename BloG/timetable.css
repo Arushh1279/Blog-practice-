@@ -1,0 +1,14 @@
+#navbar{
+    padding: 20px;
+    text-align: center;
+}
+#links{
+    display: flex;
+    justify-content: center;
+    
+}
+table,tr,td,th{
+	/*border-collapse: separate;*/
+	padding: 0px;
+	border-spacing: 2px;
+}
